@@ -1,16 +1,61 @@
-## Hi there 👋
+## Welcome to my GitHub profile! 
 
-<!--
-**kdove04/kdove04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a junior Computer Science student currently enrolled at Jackson State University. I'm passionate about data science, AI, machine learning, and coding, and I'm constantly exploring new technologies and improving my skills in programming and analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+
+🔹 Name: Karys Dove
+
+
+🔹 Degree: Bachelor of Science in Computer Science (2026)
+
+
+🔹 University: Jackson State University
+
+
+🔹 Interests: Data Science, Machine Learning, Artificial Intelligence, Data Visualization, and Algorithms
+
+
+I’m eager to learn and contribute to projects that involve data analysis, predictive modeling, and solving real-world problems using data-driven approaches. I enjoy collaborating with others and constantly expanding my knowledge in computer science and data science.
+
+## Skills & Technologies
+
+
+Programming Languages: Python, R, Java, C++, Julia
+
+
+Tools & Platforms: Eclipse, GitHub, VS Code, PyCharm
+
+
+Databases: SQL
+
+
+Data Science: Data Visualization, Exploratory Data Analysis (EDA), Machine Learning
+
+
+## Education
+
+
+Jackson State University — Bachelor of Science in Computer Science (Expected Graduation: 2026)
+
+
+Relevant coursework: Data Structures, Algorithms, Databases, Machine Learning, Artificial Intelligence, Linear Algebra, Probability & Statistics.
+
+
+## How to Reach Me
+
+
+Feel free to connect with me via:
+
+
+
+📧 Email: karysdove22@gmail.com
+
+
+🌐 LinkedIn: https://www.linkedin.com/in/karys-dove-7a923a197/
+
+
+Thanks for visiting my GitHub! Feel free to explore my repositories and collaborate with me on exciting data science and computer science projects. 
