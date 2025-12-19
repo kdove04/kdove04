@@ -16,7 +16,7 @@ I'm a junior Computer Science student currently enrolled at Jackson State Univer
 🔹 University: Jackson State University
 
 
-🔹 Interests: Data Science, Machine Learning, Artificial Intelligence, Data Visualization, and Algorithms
+🔹 Interests: Data Science, Web Development, Artificial Intelligence, Data Visualization, and Algorithms
 
 
 I’m eager to learn and contribute to projects that involve data analysis, predictive modeling, and solving real-world problems using data-driven approaches. I enjoy collaborating with others and constantly expanding my knowledge in computer science and data science.
@@ -24,7 +24,7 @@ I’m eager to learn and contribute to projects that involve data analysis, pred
 ## Skills & Technologies
 
 
-Programming Languages: Python, R, Java, C++, Julia
+Programming Languages: Python, R, Java, C++, HTML, CSS, JavaScript
 
 
 Tools & Platforms: Eclipse, GitHub, VS Code, PyCharm
