@@ -1,7 +1,7 @@
 ## Welcome to my GitHub profile! 
 
 
-I'm a junior Computer Science student currently enrolled at Jackson State University. I'm passionate about data science, AI, machine learning, and coding, and I'm constantly exploring new technologies and improving my skills in programming and analysis.
+I'm a senior Computer Science student currently enrolled at Jackson State University. I'm passionate about data science, AI, front-end development, and coding, and I'm constantly exploring new technologies and improving my skills in programming and analysis.
 
 
 ## About Me
