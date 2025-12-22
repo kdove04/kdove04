@@ -58,4 +58,4 @@ Feel free to connect with me via:
 🌐 LinkedIn: https://www.linkedin.com/in/karys-dove-7a923a197/
 
 
-Thanks for visiting my GitHub! Feel free to explore my repositories and collaborate with me on exciting data science and computer science projects. 
+Thanks for visiting my GitHub! Feel free to explore my repositories and collaborate with me on exciting computer science projects. 
